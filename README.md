@@ -1,3 +1,3 @@
 # demo
 for understanding git system
-author tanuja
+author tanuja kharol
